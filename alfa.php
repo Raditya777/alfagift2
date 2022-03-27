@@ -25,7 +25,7 @@ $deviceid2 = "\"$deviceid\"";
 echo "\n";
 echo "\n";
 echo "| Welcome to ALFAGIFT ACCOUNT GENERATOR!! \n";
-echo "| Simpel script by Arie \n";
+echo "| Simpel script by Jono \n";
 echo "| Wa 085782946968 \n";
 echo "| --------------------------- \n";
 if(file_exists("config.json")){
